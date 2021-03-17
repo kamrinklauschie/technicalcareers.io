@@ -1,0 +1,38 @@
+{ "careers": [
+    {
+       "url": "/developer-advocate",
+       "title": "Developer Advocate",
+        "alternate_titles": [ "Developer Evangelist", "Developer Relations Engineer", "Developer Programs Engineer", "Technical Evangelist",],
+        "salary_max_range": 33000.00,
+         "salary_min_range": 10000.00,
+        "tools": ["GitHub", "Twitter", "StackOverflow", "LinkedIn", ],
+        "responsibilities": [
+          "- Create and implement strategies to build awareness, education and community amongst software developers",
+          "- Accelerate the growth and usage of a platform’s products and services, usually by third party developers",
+          "- Write clear, succinct, useful technical documentation and sample code for a wide range of skill levels and backgrounds in blogs, trainings, libraries, books, articles, and reference apps"
+        ],
+        "skills": ["Programming", "Product Management", "Technical Writing", "Teaching", "Public Speaking", "Communication", "Event Planning", "Growth", "Marketing", "Sales" ],
+        "interests": ["Technology Trends", "Education", "Marketing", "Computer Science", "Psychology", "Thought Leadership", ""],
+        "blogs": [],
+        "podcasts": [],
+        "communities": [],
+        "books": [],
+        "courses": [],
+        "career_paths": [],
+        "companies": ["Apple", "Microsoft", "Google", "Twilio", "Amazon Web Services (AWS)", "Stripe", "PayPal"],
+        "job_descriptions": [],
+     },
+    {
+       "title": "Sales Engineer",
+        "alternate_titles": [ "a", "b", "c"],
+        "salary_max_range": 33000.00,
+         "salary_min_range": 10000.00
+     },
+    {
+       "title": "Customer Success Engineer",
+        "alternate_titles": [ "a", "b", "c"],
+        "salary_max_range": 33000.00,
+         "salary_min_range": 10000.00
+     },
+  ]
+}

@@ -3,8 +3,8 @@ import './App.css';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import IndexPage from "./modules/IndexPage";
-import CareerPage from "./modules/CareerPage";
-import AboutPage from "./modules/AboutPage";
+import CareerPage from "./modules/career/CareerPage";
+import AboutPage from "./modules/about/AboutPage";
 
 function App() {
   return (

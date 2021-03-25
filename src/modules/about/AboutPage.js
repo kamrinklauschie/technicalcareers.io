@@ -1,4 +1,4 @@
-import NavBar from "./shared/NavBar";
+import NavBar from "../_shared/NavBar";
 
 function AboutPage() {
   return (
@@ -10,4 +10,3 @@ function AboutPage() {
 }
 
 export default AboutPage;
-

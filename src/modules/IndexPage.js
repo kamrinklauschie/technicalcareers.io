@@ -1,4 +1,4 @@
-import NavBar from "./NavBar";
+import NavBar from "./_shared/NavBar";
 
 function IndexPage() {
   return (

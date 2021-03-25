@@ -1,8 +1,8 @@
-{ "careers": [
-    {
+{ "careers": {
+    "developerAdvocate" : {
        "url": "/developer-advocate",
        "title": "Developer Advocate",
-        "alternate_titles": [ "Developer Evangelist", "Developer Relations Engineer", "Developer Programs Engineer", "Technical Evangelist"],
+        "alternateTitles": [ "Developer Evangelist", "Developer Relations Engineer", "Developer Programs Engineer", "Technical Evangelist"],
         "salary_max_range": 33000.00,
          "salary_min_range": 10000.00,
         "tools": ["GitHub", "Twitter", "StackOverflow", "LinkedIn"],
@@ -22,17 +22,17 @@
         "companies": ["Apple", "Microsoft", "Google", "Twilio", "Amazon Web Services (AWS)", "Stripe", "PayPal"],
         "job_descriptions": ["Apple", "Stripe", "Google"]
      },
-    {
+    "salesEngineer" : {
        "title": "Sales Engineer",
         "alternate_titles": [ "a", "b", "c"],
         "salary_max_range": 33000.00,
          "salary_min_range": 10000.00
      },
-    {
+    "customerSuccessEngineer" : {
        "title": "Customer Success Engineer",
         "alternate_titles": [ "a", "b", "c"],
         "salary_max_range": 33000.00,
          "salary_min_range": 10000.00
      }
-  ]
+  }
 }
